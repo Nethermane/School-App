@@ -1,4 +1,4 @@
-# ShoolApp
+# Shool App
 To get started please follow [his link](https://github.com/libgdx/libgdx/wiki/Setting-up-your-Development-Environment-(Eclipse,-Intellij-IDEA,-NetBeans)#setting-up-eclipse) to setup your development environment
 
 *Below is optional, just nice to test eclipse is setup properly*
