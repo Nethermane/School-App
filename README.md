@@ -8,7 +8,6 @@ This is where it gets a bit messy. Inside of the extracted folder(probably named
 
 
 ![Alt text](http://imgur.com/a/6F3KE)
-![SDK MANAGER][http://imgur.com/a/6F3KE]
 
 If that does end up being too complicated you can message me or worst case you can downlaod all of android studio and download SDKs from that.
 
