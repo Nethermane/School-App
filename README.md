@@ -1,5 +1,17 @@
-# School App
-To get started please follow [his link](https://github.com/libgdx/libgdx/wiki/Setting-up-your-Development-Environment-(Eclipse,-Intellij-IDEA,-NetBeans)#setting-up-eclipse) to setup your development environment
+# School App #
+
+To get started please follow [his link](https://github.com/libgdx/libgdx/wiki/Setting-up-your-Development-Environment-(Eclipse,-Intellij-IDEA,-NetBeans)#setting-up-eclipse) to setup your development environment.
+
+The android SDK part is a bit confusing, essentially you download the command line tools, once downloaded extract it. 
+
+This is where it gets a bit messy. Inside of the extracted folder(probably named tools_r25...) you are going to navigate to the tools section. Once there you Shift-Right click, open command window here, then type android.bat. You can see all the crap that I have installed in the image below.
+
+
+![Alt text](http://imgur.com/a/6F3KE)
+![SDK MANAGER][http://imgur.com/a/6F3KE]
+
+If that does end up being too complicated you can message me or worst case you can downlaod all of android studio and download SDKs from that.
+
 
 *Below is optional, just nice to test eclipse is setup properly*
 
