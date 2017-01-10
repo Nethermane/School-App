@@ -6,8 +6,7 @@ The android SDK part is a bit confusing, essentially you download the command li
 
 This is where it gets a bit messy. Inside of the extracted folder(probably named tools_r25...) you are going to navigate to the tools section. Once there you Shift-Right click, open command window here, then type android.bat. You can see all the crap that I have installed in the image below.
 
-
-![Alt text](http://imgur.com/a/6F3KE)
+![Settings Window](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
 
 If that does end up being too complicated you can message me or worst case you can downlaod all of android studio and download SDKs from that.
 
