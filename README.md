@@ -12,6 +12,9 @@ This is where it gets a bit messy. Inside of the extracted folder(probably named
 
 If that does end up being too complicated you can message me or worst case you can downlaod all of android studio and download SDKs from that.
 
+Inside of eclipse, go to help, install new software and paste "https://dl-ssl.google.com/android/eclipse" into Work with and install everything in the drop down. 
+
+![libgdx](http://i.imgur.com/iRXYnsC.png)
 
 *Below is optional, just nice to test eclipse is setup properly*
 
