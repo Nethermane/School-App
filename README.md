@@ -7,7 +7,7 @@ I trust that the first 2 steps will be easy for most, if not message me.
 The android SDK part is a bit confusing, essentially you download the command line tools, once downloaded extract it. 
 
 This is where it gets a bit messy. Inside of the extracted folder(probably named /User/tools_r25...) you are going to navigate to the tools section. Once there you open the android.bat file. You can see all the crap that I have installed in the image below. Click 'em all then press install packages, it will take a while.
-
+![android.bat](http://i.imgur.com/vgolQdj.png)
 ![sdk manager](http://i.imgur.com/W1uydtz.png)
 
 If that does end up being too complicated you can message me or worst case you can downlaod all of android studio and download SDKs from that.
