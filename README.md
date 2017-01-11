@@ -37,4 +37,4 @@ If this doesn't work of course troubleshoot or just message me and tell me what 
 
 *end optional testing thing*
 
-After your environment is setup properly download the projects in this Git repository. Git is a useful tool for code sharing, but it is a bit complicated. I am personally using the Eclipse plugin EGit which allows me to push projects in on my computer directly to the cloud.
+After your environment is setup properly download the projects in this Git repository and import them the same way as before. Git is a useful tool for code sharing, but it is a bit complicated. I am personally using the Eclipse plugin EGit which allows me to push projects in on my computer directly to the cloud.
