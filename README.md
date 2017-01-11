@@ -22,11 +22,13 @@ Once downloaded run it.
 Remember where your sdk is stored because you need that location for the setup. Otherwise nothing else matters (in the setup) except the destination (where the projects will be generated to). You can uncheck the HTML checkbox because we don't need it.
 
 (Make sure to go to advanced and click the Eclipse button)
+
 ![libgdx](http://i.imgur.com/x7Jgugg.png)
 
 It creates a number of projects for each device 
 
 You import them into eclipse by going to eclipse, file, import, general, existing projects, then selecting the folder where you created the project in the GDX setup application.
+
 ![import eclipse](http://i.imgur.com/4hxF64q.png)
 
 Select all projects that it provides and import them. If your environment is setup properly, it should only contain a single error in the android project(disregard for now).
