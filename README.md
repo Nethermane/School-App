@@ -1,5 +1,6 @@
 # School App #
 
+To get started on the school computers you need to download and run this https://downloadcenter.intel.com/download/22165/Intel-Graphics-Media-Accelerator-Driver-Windows-7-Windows-Vista-exe
 To get started please follow [his link](https://github.com/libgdx/libgdx/wiki/Setting-up-your-Development-Environment-(Eclipse,-Intellij-IDEA,-NetBeans)#setting-up-eclipse) to setup your development environment.
 
 I trust that the first 2 steps will be easy for most, if not message me.
