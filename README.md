@@ -1,19 +1,16 @@
 # School App #
 
 To get started on the school computers you need to download and run this https://downloadcenter.intel.com/download/22165/Intel-Graphics-Media-Accelerator-Driver-Windows-7-Windows-Vista-exe
-To get started please follow [his link](https://github.com/libgdx/libgdx/wiki/Setting-up-your-Development-Environment-(Eclipse,-Intellij-IDEA,-NetBeans)#setting-up-eclipse) to setup your development environment.
+
+
+To get started please follow [this link](https://github.com/libgdx/libgdx/wiki/Setting-up-your-Development-Environment-(Eclipse,-Intellij-IDEA,-NetBeans)#setting-up-eclipse) to setup your development environment.
 
 I trust that the first 2 steps will be easy for most, if not message me.
 
-The android SDK part is a bit confusing, essentially you download the command line tools, once downloaded extract it. 
+THE THIRD STEP IS NOT NEEDED. The android sdk can be downloaded with the android ADT plugin, so it can save you a bit of time to just download the ADT plugin and not the SDK.
 
-This is where it gets a bit messy. Inside of the extracted folder(probably named /User/tools_r25...) you are going to navigate to the tools section. Once there you open the android.bat file. You can see all the crap that I have installed in the image below. Click 'em all then press install packages, it will take a while.
-![android.bat](http://i.imgur.com/vgolQdj.png)
-![sdk manager](http://i.imgur.com/W1uydtz.png)
 
-If that does end up being too complicated you can message me or worst case you can downlaod all of android studio and download SDKs from that.
-
-Inside of eclipse, go to help, install new software and paste "https://dl-ssl.google.com/android/eclipse" into Work with and install everything in the drop down. 
+Inside of eclipse, go to help, install new software and paste "https://dl-ssl.google.com/android/eclipse" into Work with and install everything in the drop down. This will install the android ADT plugin. Do the same with "http://dist.springsource.com/snapshot/TOOLS/gradle/nightly" that will install the gradle plugin.
 
 ![libgdx](http://i.imgur.com/iRXYnsC.png)
 
